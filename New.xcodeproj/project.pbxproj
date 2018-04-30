@@ -642,7 +642,7 @@
 			baseConfigurationReference = 57A6A4C67106F853B349DEF8 /* Pods-New.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Microsoft Corporation"
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Microsoft Corporation";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 9KBH5RKYEW;
 				INFOPLIST_FILE = New/Info.plist;
